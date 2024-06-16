@@ -42,10 +42,10 @@
     line-height: 24px;
 }
 .card div a{
-    background-color: rgb(35, 83, 238);
+    background-color: #2353ee;
     color: #fff;
     padding: 13px 25px;
-    width: 30%;
+    max-width: 100px;
     text-decoration: none;
     text-align: center;
     font-size: 18px;
